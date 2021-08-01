@@ -54,7 +54,7 @@
 <br/><br/>
 
 <p><strong>3. Run the app using maven</strong></p>
-<div class="highlight highlight-source-shell position-relative"><pre><span class="pl-c1">cd</span> spring-boot-file-upload-download-rest-api-example
+<div class="highlight highlight-source-shell position-relative"><pre><span class="pl-c1">cd</span> UploadFile
 mvn spring-boot:run</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd UploadFile
 mvn spring-boot:run
@@ -70,8 +70,8 @@ mvn spring-boot:run
   <p>That's it! The application can be accessed at <code>http://localhost:8080</code>.</p>
   <p>You may also package the application in the form of a jar and then run the jar file like so -</p>
   <div class="highlight highlight-source-shell position-relative"><pre>mvn clean package
-java -jar target/file-demo-0.0.1-SNAPSHOT.jar</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mvn clean package java -jar target/uploadissue-0.0.1-SNAPSHOT.jar
+java -jar target/uploadfile-0.0.1-SNAPSHOT.jar</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mvn clean package java -jar target/uploadfile-0.0.1-SNAPSHOT.jar
 
 " tabindex="0" role="button">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-clippy js-clipboard-clippy-icon m-2">
