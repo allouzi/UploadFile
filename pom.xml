@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.microsoft</groupId>
-    <artifactId>uploadissue</artifactId>
+    <artifactId>uploadfile</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>uploadissue</name>
+    <name>uploadfile</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
