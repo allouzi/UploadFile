@@ -3,7 +3,7 @@
 
 <p><img src="https://github.com/uploadcare/uploadcare-java/actions/workflows/maven.yml/badge.svg?branch=master" alt="Build Status" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/8d63c8824b612a84c02dc97642296b8a52a04479d550972e5a6439278aeaf839/68747470733a2f2f6d6176656e2d6261646765732e6865726f6b756170702e636f6d2f6d6176656e2d63656e7472616c2f636f6d2e75706c6f6164636172652f75706c6f6164636172652f62616467652e737667" alt="Maven Central" data-canonical-src="https://maven-badges.herokuapp.com/maven-central/com.uploadcare/uploadcare/badge.svg" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/318c65006d7686df6805b050a0be75dacbb634c5c1ba844618577fe7e835b182/68747470733a2f2f7777772e6a617661646f632e696f2f62616467652f636f6d2e75706c6f6164636172652f75706c6f6164636172652e737667" alt="Javadocs" data-canonical-src="https://www.javadoc.io/badge/com.uploadcare/uploadcare.svg" style="max-width:100%;">
+<a href="https://docs.oracle.com/en/java/"><img src="https://camo.githubusercontent.com/318c65006d7686df6805b050a0be75dacbb634c5c1ba844618577fe7e835b182/68747470733a2f2f7777772e6a617661646f632e696f2f62616467652f636f6d2e75706c6f6164636172652f75706c6f6164636172652e737667" alt="Javadocs" data-canonical-src="https://www.javadoc.io/badge/com.uploadcare/uploadcare.svg" style="max-width:100%;"></a>
 
 
   <p><strong>Tutorial</strong>: <a href="https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/" rel="nofollow">Upload/Download files with Spring Boot REST API</a></p>
